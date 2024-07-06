@@ -5,7 +5,7 @@ Plant data-set project
 ## Description
 
 This data-set contains 7 tables. I made 10 tables in processing the data to get the information I needed from this data-set.  
-In this data-set, I experienced many columns without values being added to it.    
+This data-set had many columns which did not have any data in them.    
 After a kin data clearance and process through Structured Query Language (SQL)  I was able to  make about  8 tables from the original tables of which was used to answer the questions below.
 
 ## Questions  
