@@ -10,19 +10,19 @@ After a kin data clearance and process through Structured Query Language (SQL)  
 
 ## Questions  
 
-- Show the Price distribution. (High, Low and average Price.
+- Show the price distribution. (High, Low and average Price.
 
 - Identify the names of the plants of which the price is above the average price.
 
 - Identify the names of the plants with the highest Price.
 
-- List of Plant  Types.
+- List of plant types.
 
-- List of Plant colors.
+- List of plant colors.
 
-- List of Plants of which the values are not added in column color.
+- List of plants of which the values are not added in column color.
 
-- ive the offer Price by supplier Id.
+- Give the offer Price by supplier Id.
 
 
 ## View interactive report  
