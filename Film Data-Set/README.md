@@ -9,13 +9,13 @@ After a deep data clearance and process through Structured Query Language (SQL) 
 
 ## Questions  
 
-- Show stock by Genre.
+- Show stock by genre.
 
-- Show the list of customer with the highest rentals ( Total rental  above the average).
+- Show the list of customer with the highest rentals ( Total rental above the average).
 
 - Show the list of customer with the lowest rentals ( Total rental below the average).
 
-- Give the list of the most rented films  by Genre. ( From highest to lowest).
+- Give the list of the most rented films by genre. ( From highest to lowest).
 
 
 ## View interactive report  
