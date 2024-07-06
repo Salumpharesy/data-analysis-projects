@@ -4,20 +4,18 @@ Film dataset project
 
 ## Description
 
-Alcohol data-set is basically a set of data in sequel format which contains 9 original tables each with its own primary keys and foreign keys.  
-After a kin data clearance and process through Structured Query Language (SQL)  I was able to  form 8 tables from the original tables of which was used to answer the questions below.
+Video data-set is simply a set of data in sequel format which contains 4 original tables each with its own primary keys and foreign keys.  
+After a deep data clearance and process through Structured Query Language (SQL)  I was able to form 11 tables from the original tables of which was used to answer the questions below.
 
 ## Questions  
 
-- Show the income overview including Minimum, Maximum and Average income and Total revenue of the company.
+- Show stock by Genre.
 
-- Identify the Names of the Beers with the highest and lowest Alcohol Level.
+- Show the list of customer with the highest rentals ( Total rental  above the average).
 
-- Find the inventory for every beer Type.
+- Show the list of customer with the lowest rentals ( Total rental below the average).
 
-- Show the name of the beers with the average alcohol level.
-
-- Give the list of all the Beer names, alcohol level and Brouwer name.
+- Give the list of the most rented films  by Genre. ( From highest to lowest).
 
 
 ## View interactive report  
