@@ -10,7 +10,7 @@ After a kin data clearance and process through Structured Query Language (SQL)  
 
 ## Questions  
 
-- Show the price distribution. (High, Low and average Price.
+- Show the price distribution (high, low and average price).
 
 - Identify the names of the plants of which the price is above the average price.
 
