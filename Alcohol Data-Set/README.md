@@ -1,10 +1,11 @@
 # Project Title
 
-Alcohol dataset project
+Alcohol data-set project
 
 ## Description
 
-Alcohol data-set is basically a set of data in sequel format which contains 9 original table each with its own primary keys and foreign keys. After a kin data clearance and process through Structured Query Language (MySQL)  I was able to  formed 8 tables from the original tables of which was used to answer the questions below.
+Alcohol data-set is basically a set of data in sequel format which contains 9 original tables each with its own primary keys and foreign keys.  
+After a kin data clearance and process through Structured Query Language (SQL)  I was able to  form 8 tables from the original tables of which was used to answer the questions below.
 
 ## Questions  
 
