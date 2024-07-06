@@ -11,9 +11,9 @@ After a kin data clearance and process through Structured Query Language (SQL)  
 
 - Show the income overview including Minimum, Maximum and Average income and Total revenue of the company.
 
-- Identify the Names of the Beers with the highest and lowest Alcohol Level.
+- Identify the names of the beers with the highest and lowest Alcohol Level.
 
-- Find the inventory for every beer Type.
+- Find the inventory for every beer type.
 
 - Show the name of the beers with the average alcohol level.
 
