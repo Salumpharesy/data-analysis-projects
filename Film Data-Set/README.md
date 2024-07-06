@@ -1,6 +1,6 @@
 # Project Title
 
-Film dataset project
+Film data-set project
 
 ## Description
 
