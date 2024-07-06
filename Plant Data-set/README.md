@@ -1,23 +1,28 @@
 # Project Title
 
-Plant dataset project
+Plant data-set project
 
 ## Description
 
-Alcohol data-set is basically a set of data in sequel format which contains 9 original tables each with its own primary keys and foreign keys.  
-After a kin data clearance and process through Structured Query Language (SQL)  I was able to  form 8 tables from the original tables of which was used to answer the questions below.
+This data-set contains 7 tables. I made 10 tables in processing the data to get the information I needed from this data-set.  
+In this data-set, I experienced many columns without values being added to it.    
+After a kin data clearance and process through Structured Query Language (SQL)  I was able to  make about  8 tables from the original tables of which was used to answer the questions below.
 
 ## Questions  
 
-- Show the income overview including Minimum, Maximum and Average income and Total revenue of the company.
+- Show the Price distribution. (High, Low and average Price.
 
-- Identify the Names of the Beers with the highest and lowest Alcohol Level.
+- Identify the names of the plants of which the price is above the average price.
 
-- Find the inventory for every beer Type.
+- Identify the names of the plants with the highest Price.
 
-- Show the name of the beers with the average alcohol level.
+- List of Plant  Types.
 
-- Give the list of all the Beer names, alcohol level and Brouwer name.
+- List of Plant colors.
+
+- List of Plants of which the values are not added in column color.
+
+- ive the offer Price by supplier Id.
 
 
 ## View interactive report  
